@@ -1,0 +1,60 @@
+{
+  "Home": {
+    "title": "Go anywhere with Uber",
+    "subtitle": "Request a ride, hop in, and go."
+  },
+  "Route": {
+    "title1": "Drive when you want, make what you need",
+    "subtitle1": "Make money on your schedule with deliveries or rides—or both. You can use your own car or choose a rental through Uber.",
+    "title2": "The Uber you know, reimagined for business",
+    "subtitle2": "Uber for Business is a platform for managing global rides and meals, and local deliveries, for companies of any size.",
+    "title3": "Make money by renting out your car",
+    "subtitle3": "Connect with thousands of drivers and earn more per week with Uber’s free fleet management tools.",
+    "title4": "It’s easier in the apps",
+    "download_app": "Download the Uber app",
+    "scan_app": "Scan to download",
+    "get_started": "Get Started",
+    "already_account": "Already have an account? Sign in"
+  },
+  "Navbar": {
+    "ride": "Ride",
+    "drive": "Drive",
+    "business": "Business",
+    "recipes": "Recipes",
+    "about": "About",
+    "orders": "Orders",
+    "cart": "Cart",
+    "login": "Log in",
+    "signup": "Sign up",
+    "signout": "Sign out"
+  },
+  "Login": {
+    "title": "What's your email and password?",
+    "login": "Login",
+    "register": "Register",
+    "no_account": "Don't have an account?",
+    "enter_email": "Enter Email",
+    "enter_password": "Enter Password"
+  },
+  "Signup": {
+    "title": "What's your name and email?",
+    "signup": "Signup",
+    "already_account": "Already have an account?",
+    "login": "Login",
+    "enter_name": "Enter name",
+    "enter_email": "Enter Email",
+    "enter_password": "Enter Password"
+  },
+  "Eats": {
+    "title": "What's on your mind ?",
+    "dishTitle": "Top dishes for you",
+    "filters": "Filters",
+    "notFound": "No items found!",
+    "notFoundSubText" : "Try adjusting the filter you have applied...",
+    "apply": "Apply",
+    "clear": "Clear",
+    "category": "Category",
+    "rating": "Rating",
+    "sort": "Sort By"
+  }
+}
